@@ -6,18 +6,16 @@ def main():
     num2 = float(input('Give a float:'))
     ans = input('Give a boolean:')
     
-#     print(f'You gave the string {text}')
-#     print(f'You gave the integer {num}')
-#     print(f'You gave the float {num2}')
-#     print(f'You gave the boolean {ans}')
-
     print('You gave the string ' + text)
     print('You gave the integer ' + str(num))
     print('You gave the float ' + str(num2))
+    
+    # if boolean input is non-empty it's always True, so a workaround is:
     if ans == 'True':
         print('You gave the boolean ' + ans)
     elif ans == 'False':
         print('You gave the boolean ' + ans)
+        
     
     
 
