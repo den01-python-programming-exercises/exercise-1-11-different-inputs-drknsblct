@@ -4,7 +4,7 @@ def main():
     text = input('Give a string:')
     num = int(input('Give an integer:'))
     num2 = float(input('Give a float:'))
-    ans = input('Give a boolean:'))
+    ans = input('Give a boolean:')
     
 #     print(f'You gave the string {text}')
 #     print(f'You gave the integer {num}')
