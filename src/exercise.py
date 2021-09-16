@@ -11,10 +11,10 @@ def main():
 #     print(f'You gave the float {num2}')
 #     print(f'You gave the boolean {ans}')
 
-    print('You gave the string ' + text')
-    print('You gave the integer ' + str(num)')
-    print('You gave the float ' + str(num2)')
-    print('You gave the boolean ' + str(ans)')
+    print('You gave the string ' + text)
+    print('You gave the integer ' + str(num))
+    print('You gave the float ' + str(num2))
+    print('You gave the boolean ' + str(ans))
     
     
 
